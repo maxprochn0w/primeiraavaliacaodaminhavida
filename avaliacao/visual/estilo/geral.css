@@ -1,0 +1,132 @@
+body {
+background-image: url(https://t.ctcdn.com.br/jc_tUEcDs9oVWSlVC5St0mE38Yg=/640x360/smart/i578835.jpeg);
+background-size: cover;
+}
+
+#um {
+text-align: center;
+text-decoration-line: underline;
+text-decoration-color: deeppink;
+color: chartreuse;
+
+
+
+}
+
+#dois {
+    margin-left: 5%;
+    color: rgb(255, 0, 0);
+    background-color: orange;
+    margin-right: 94%;
+    font-size: x-large;
+    
+}
+
+
+#tres {
+    margin-left: 10%;
+    color: rgb(255, 0, 0);
+    background-color: darksalmon ;
+    margin-right: 89%;
+    font-size: x-large;
+}
+
+#quarto {
+    margin-left: 15%;
+    color: rgb(255, 0, 0);
+    background-color: rgb(0, 26, 255);
+    margin-right: 84%;
+    font-size: x-large;
+}
+
+#quinto {
+    margin-left: 20%;
+    color: rgb(255, 0, 0);
+    background-color: darkturquoise ;
+    margin-right: 79%;
+    font-size: x-large;
+}
+
+#seis {
+    margin-left: 25%;
+    color: rgb(255, 0, 0);
+    background-color: dodgerblue;
+    margin-right: 74%;
+    font-size: x-large;
+}
+
+#sete {
+    margin-left: 30%;
+    color: rgb(255, 0, 0);
+    background-color: lightskyblue;
+    margin-right: 69%;
+    font-size: x-large;
+}
+
+#oito {
+    margin-left: 35%;
+    color: rgb(255, 0, 0);
+    background-color: paleturquoise;
+    margin-right: 64%;
+    font-size: x-large;
+}
+
+#olhar {
+width: auto;
+display: inline-block;
+margin-left: 5%;
+
+}
+
+#fofo {
+    width: auto;
+    display: inline-block;
+    margin-left: 5%;
+    
+}
+
+#lingua {
+    width: auto;
+    display: inline-block;
+    margin-left: 5%;
+    
+    }
+    
+#fofos {
+    width: auto;
+    display: inline-block;
+    margin-left: 5%;
+        
+}
+
+#olhar2 {
+    width: auto;
+    display: inline-block;
+    margin-left: 5%;
+    margin-top: 5%;
+    
+    }
+    
+    #fofo2 {
+        width: auto;
+        display: inline-block;
+        margin-inline: -1%;
+        
+    }
+    #fofos2 {
+        width: auto;
+        display: inline-block;
+        
+            
+    }
+    #lingua2 {
+        width: auto;
+        display: inline-block;
+        margin-inline: -1%;
+        
+        }
+        
+        #cadastro {
+color: chartreuse;
+background-color: azure;
+        }
